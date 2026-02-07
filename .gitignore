@@ -1,0 +1,46 @@
+# =========================
+# Oh
+# =========================
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# If you have any of these folders inside Plugins, ignore their generated parts too
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# =========================
+# Tak
+# =========================
+.vs/
+.idea/
+.vscode/
+
+# Visual Studio / Rider / user-specific
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+
+# Optional: keep .vsconfig if you want; otherwise ignore it too
+# .vsconfig
+
+# =========================
+# You're
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Back
+# =========================
+*.log

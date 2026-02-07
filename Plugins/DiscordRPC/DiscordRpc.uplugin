@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Discord RPC",
+	"Description": "Discord Rich Presence for Discord app.",
+	"Category": "Messaging",
+	"CreatedBy": "Louis Raverdy",
+	"CreatedByURL": "https://twitter.com/LouisRaverdy",
+	"DocsURL": "https://twitter.com/LouisRaverdy",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b6e233cab7f149599033d045b18a7dc1",
+	"SupportURL": "https://twitter.com/LouisRaverdy",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DiscordRpc",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}

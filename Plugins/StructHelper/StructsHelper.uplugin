@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.1",
+	"FriendlyName": "StructsHelper",
+	"Description": "A collection of utilities to help with structs",
+	"Category": "Editor",
+	"CreatedBy": "Just2Devs",
+	"CreatedByURL": "http://just2devs.com",
+	"DocsURL": "https://docs.just2devs.com/structs-helper",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/ef24ddb2-dc23-471b-b588-e1308f94ade0",
+	"SupportURL": "https://discord.gg/Tu7cP3MA42",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "StructsHelperEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			]
+		}
+	]
+}
