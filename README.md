@@ -7,7 +7,7 @@ The project is shared so others can:
 - explore or mod the content
 - suggest changes or improvements
 
-This is **not a packaged build, ** it is the full project.
+This is **not a packaged build,** it is the full project.
 
 ## Requirements
 - **Unreal Engine 5.5.4**
